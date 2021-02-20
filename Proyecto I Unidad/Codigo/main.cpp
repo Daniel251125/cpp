@@ -31,6 +31,7 @@ int main(int argc, char const *argv[])
 
          system("pause>nul"); // Pausa
          break;
+        }
                 
         
     } while (opcion != 3);
